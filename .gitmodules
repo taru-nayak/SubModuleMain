@@ -1,0 +1,3 @@
+[submodule "MyCommonLIB"]
+	path = MyCommonLIB
+	url = https://github.com/taru-nayak/CommonLIB.git
